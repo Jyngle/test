@@ -3,6 +3,7 @@
 
 void main()
 {
+
 printf("test2");
 // hahahaha
 
@@ -11,5 +12,13 @@ printf("test2");
 
 //je suis sur la 3
 //et je joue
+
+
+printf("haha");
+printf("double 2");
+printf("double 3");
+printf("double 4");
+//ho non
+//ho oui
 
 }
