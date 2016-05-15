@@ -4,5 +4,5 @@
 void main()
 {
 printf("haha");
-printf("double");
+printf("double 2");
 }
